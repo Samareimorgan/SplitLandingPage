@@ -76,7 +76,7 @@ h1{
 
 .split.left {
     left:0;
-    background: url('https://github.com/Samareimorgan/SplitLandingPage/blob/master/ScreamingBluStudio.jpg') center center no-repeat;
+    background: url('https://raw.githubusercontent.com/Samareimorgan/SplitLandingPage/master/ScreamingBluStudio.jpg') center center no-repeat;
     background-size: cover; 
     
 }
@@ -91,7 +91,7 @@ h1{
 
 .split.right {
     right:0;
-    background: url('https://github.com/Samareimorgan/SplitLandingPage/blob/master/MahoganyCandles.jpg') center center no-repeat;
+    background: url('https://raw.githubusercontent.com/Samareimorgan/SplitLandingPage/master/MahoganyCandles.jpg') center center no-repeat;
     background-size: cover; 
 }
 
